@@ -9,4 +9,9 @@
 #Recurstion
 
 #Search Algorithms
-  - comming soon
+  - LinearSearch(Search)
+  - BinarySearch
+  
+#Data Structures
+  - Stacks
+  - ArrayList, Vectors, LinkedList, DoubleLinkedList (Lists)
