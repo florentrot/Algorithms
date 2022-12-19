@@ -5,6 +5,10 @@
   - InsertionSort
   - SelectionSort
   - ShellSort
+  - CountingSort
+  - QuickSort
+  - MergeSort
+  - RadixSort
 
 #Recurstion
 
