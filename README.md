@@ -1,6 +1,6 @@
 ## Algorithms
 
-#Sort Algorithms
+#Sort Algorithms | #Recurstion
   - BubbleSort
   - InsertionSort
   - SelectionSort
@@ -9,8 +9,6 @@
   - QuickSort
   - MergeSort
   - RadixSort
-
-#Recurstion
 
 #Search Algorithms
   - LinearSearch(Search)
